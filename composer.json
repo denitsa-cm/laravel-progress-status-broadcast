@@ -1,6 +1,5 @@
 {
   "name": "denitsa-md/laravel-progress-status-broadcast",
-  "version": "dev-master",
   "description": "Broadcast progress status of a task.",
   "keywords": [
     "denitsa-md",
