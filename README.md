@@ -18,7 +18,7 @@ composer require denitsa-md/laravel-progress-status-broadcast
 
 ## Usage
 
-This is sort of how I've used the package in our project, except I used it in relation to a chunked collection.
+This is how I've used the package in our project, except I used it in relation to a chunked collection.
 
 Import the facade `use DenitsaCm\ProgressStatusBroadcast\Facades\ProgressStatusBroadcast;`
 
