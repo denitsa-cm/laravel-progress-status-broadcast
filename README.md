@@ -2,8 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/denitsa-md/laravel-progress-status-broadcast.svg?style=flat-square)](https://packagist.org/packages/denitsa-md/laravel-progress-status-broadcast)
 [![Build Status](https://img.shields.io/travis/denitsa-md/laravel-progress-status-broadcast/master.svg?style=flat-square)](https://travis-ci.org/denitsa-md/laravel-progress-status-broadcast)
-[![Quality Score](https://img.shields.io/scrutinizer/g/denitsa-md/laravel-progress-status-broadcast.svg?style=flat-square)](https://scrutinizer-ci.com/g/denitsa-md/laravel-progress-status-broadcast)
-[![Total Downloads](https://img.shields.io/packagist/dt/denitsa-md/laravel-progress-status-broadcast.svg?style=flat-square)](https://packagist.org/packages/denitsa-md/laravel-progress-status-broadcast)
+![Packagist Downloads](https://img.shields.io/packagist/dm/denitsa-md/laravel-progress-status-broadcast?style=flat-square)
 
 I needed some simple functionality to broadcast progress events (10%, 20% ... 100% complete) when a long-running action was happening in the app.
 
