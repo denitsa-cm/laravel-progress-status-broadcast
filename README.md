@@ -6,6 +6,8 @@
 
 I needed some simple functionality to broadcast progress events (10%, 20% ... 100% complete) when a long-running action was happening in the app.
 
+This is also my first published package on packagist :)
+
 ## Installation
 
 You can install the package via composer:
