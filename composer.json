@@ -1,12 +1,12 @@
 {
-  "name": "denitsa-cm/laravel-progress-status-broadcast",
+  "name": "denitsa-md/laravel-progress-status-broadcast",
   "version": "dev-master",
   "description": "Broadcast progress status of a task.",
   "keywords": [
-    "denitsa-cm",
+    "denitsa-md",
     "laravel-progress-status-broadcast"
   ],
-  "homepage": "https://github.com/denitsa-cm/laravel-progress-status-broadcast",
+  "homepage": "https://github.com/denitsa-md/laravel-progress-status-broadcast",
   "license": "MIT",
   "type": "library",
   "authors": [
@@ -18,7 +18,8 @@
   ],
   "require": {
     "php": "^7.4",
-    "illuminate/support": "^7"
+    "illuminate/support": "^7",
+    "illuminate/broadcasting": "^7"
   },
   "require-dev": {
     "orchestra/testbench": "^5.0",
@@ -26,12 +27,12 @@
   },
   "autoload": {
     "psr-4": {
-      "DenitsaCm\\ProgressStatusBroadcast\\": "src"
+      "DenitsaMd\\ProgressStatusBroadcast\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "DenitsaCm\\ProgressStatusBroadcast\\Tests\\": "tests"
+      "DenitsaMd\\ProgressStatusBroadcast\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -44,7 +45,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "DenitsaCm\\ProgressStatusBroadcast\\ProgressStatusBroadcastServiceProvider"
+        "DenitsaMd\\ProgressStatusBroadcast\\ProgressStatusBroadcastServiceProvider"
       ]
     }
   }

@@ -1,8 +1,8 @@
 <?php
 
-namespace DenitsaCm\LaravelProgressStatusBroadcast\Tests;
+namespace DenitsaMd\LaravelProgressStatusBroadcast\Tests;
 
-use DenitsaCm\ProgressStatusBroadcast\ProgressStatusBroadcastServiceProvider;
+use DenitsaMd\ProgressStatusBroadcast\ProgressStatusBroadcastServiceProvider;
 use Orchestra\Testbench\TestCase;
 
 class ExampleTest extends TestCase

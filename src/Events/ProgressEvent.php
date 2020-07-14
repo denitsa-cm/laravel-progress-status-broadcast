@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace DenitsaCm\ProgressStatusBroadcast\Events;
+namespace DenitsaMd\ProgressStatusBroadcast\Events;
 
 use Illuminate\Broadcasting\Channel;
 use Illuminate\Contracts\Broadcasting\ShouldBroadcastNow;

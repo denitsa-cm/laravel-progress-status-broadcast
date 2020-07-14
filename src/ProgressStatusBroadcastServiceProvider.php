@@ -1,6 +1,6 @@
 <?php
 
-namespace DenitsaCm\ProgressStatusBroadcast;
+namespace DenitsaMd\ProgressStatusBroadcast;
 
 use Illuminate\Support\ServiceProvider;
 

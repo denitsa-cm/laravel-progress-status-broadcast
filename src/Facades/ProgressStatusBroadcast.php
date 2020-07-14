@@ -1,6 +1,6 @@
 <?php
 
-namespace DenitsaCm\ProgressStatusBroadcast\Facades;
+namespace DenitsaMd\ProgressStatusBroadcast\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

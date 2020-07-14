@@ -1,8 +1,8 @@
 <?php
 
-namespace DenitsaCm\ProgressStatusBroadcast;
+namespace DenitsaMd\ProgressStatusBroadcast;
 
-use DenitsaCm\ProgressStatusBroadcast\Events\ProgressEvent;
+use DenitsaMd\ProgressStatusBroadcast\Events\ProgressEvent;
 use Illuminate\Broadcasting\Channel;
 
 class ProgressStatusBroadcast

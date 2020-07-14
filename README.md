@@ -1,9 +1,9 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/denitsa-cm/laravel-progress-status-broadcast.svg?style=flat-square)](https://packagist.org/packages/denitsa-cm/laravel-progress-status-broadcast)
-[![Build Status](https://img.shields.io/travis/denitsa-cm/laravel-progress-status-broadcast/master.svg?style=flat-square)](https://travis-ci.org/denitsa-cm/laravel-progress-status-broadcast)
-[![Quality Score](https://img.shields.io/scrutinizer/g/denitsa-cm/laravel-progress-status-broadcast.svg?style=flat-square)](https://scrutinizer-ci.com/g/denitsa-cm/laravel-progress-status-broadcast)
-[![Total Downloads](https://img.shields.io/packagist/dt/denitsa-cm/laravel-progress-status-broadcast.svg?style=flat-square)](https://packagist.org/packages/denitsa-cm/laravel-progress-status-broadcast)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/denitsa-md/laravel-progress-status-broadcast.svg?style=flat-square)](https://packagist.org/packages/denitsa-md/laravel-progress-status-broadcast)
+[![Build Status](https://img.shields.io/travis/denitsa-md/laravel-progress-status-broadcast/master.svg?style=flat-square)](https://travis-ci.org/denitsa-md/laravel-progress-status-broadcast)
+[![Quality Score](https://img.shields.io/scrutinizer/g/denitsa-md/laravel-progress-status-broadcast.svg?style=flat-square)](https://scrutinizer-ci.com/g/denitsa-md/laravel-progress-status-broadcast)
+[![Total Downloads](https://img.shields.io/packagist/dt/denitsa-md/laravel-progress-status-broadcast.svg?style=flat-square)](https://packagist.org/packages/denitsa-md/laravel-progress-status-broadcast)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
